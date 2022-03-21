@@ -1,13 +1,5 @@
-package com.javarush.task.task19.task1907;
-
 import java.io.*;
-import java.nio.CharBuffer;
-import java.util.Arrays;
 import java.util.StringTokenizer;
-
-/* 
-Считаем слово
-*/
 
 public class Solution {
     public static void main(String[] args) {
